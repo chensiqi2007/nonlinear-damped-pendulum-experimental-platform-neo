@@ -1,6 +1,8 @@
 # Nonlinear-damped-pendulum-experimental-platform-neo
 A WebGL virtual simulation experiment project based on Vite, TypeScript, and Three.js, used to demonstrate the motion of a simple pendulum under different damping conditions. It integrates real-time data observation, energy analysis, phase diagram analysis, gravitational acceleration measurement, record export, and an AI assistant.
 
+README: https://www.urltime.cn/app/readme_physics.html
+
 # 非线性阻尼单摆实验平台
 
 一个基于 **Vite + TypeScript + Three.js** 的 WebGL 虚拟仿真实验项目。它用于演示单摆在不同阻尼条件下的运动规律，并集成了实时数据观测、能量分析、相图分析、重力加速度测定、实验记录导出和 AI 实验助手。
